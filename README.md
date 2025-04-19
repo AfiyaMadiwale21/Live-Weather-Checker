@@ -1,7 +1,10 @@
 # Live-Weather-Checker
 🌦️ Realtime city weather forecast with date, time, and temperature display.
+
 A simple and elegant Weather App built using **React**, **Tailwind CSS**, and the **OpenWeatherMap API**.
+
 Enter any city name to fetch the latest temperature and weather conditions in real time. 
+
 Designed with a beautiful UI and custom fonts.
 
 ---
