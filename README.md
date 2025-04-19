@@ -25,4 +25,3 @@ Designed with a beautiful UI and custom fonts.
 | Tailwind CSS     | Utility-first CSS framework            |
 | OpenWeatherMap   | Weather API for real-time data         |
 | Google Fonts     | Typography styling                     |
-| HTML/CSS/JS (initial) | Originally built using Vanilla JS |
