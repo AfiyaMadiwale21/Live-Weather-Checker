@@ -5,8 +5,6 @@ A simple and elegant Weather App built using **React**, **Tailwind CSS**, and th
 
 Enter any city name to fetch the latest temperature and weather conditions in real time.
 
-Designed with a beautiful UI and custom fonts.
-
 ---
 
 ## ✨ Features
