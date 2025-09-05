@@ -30,4 +30,4 @@ Enter any city name to fetch the latest temperature and weather conditions in re
 ---
 
 ## Deploy link
-(live-weather-checker20.vercel.app)
+(https://live-weather-checker20.vercel.app/)
