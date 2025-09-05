@@ -26,3 +26,8 @@ Enter any city name to fetch the latest temperature and weather conditions in re
 | Tailwind CSS     | Utility-first CSS framework            |
 | OpenWeatherMap   | Weather API for real-time data         |
 | Google Fonts     | Typography styling                     |
+
+---
+
+##Deploy link
+live-weather-checker20.vercel.app
